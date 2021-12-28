@@ -200,5 +200,3 @@ ${simbolnya} ${prefix}getpic @tag
 ${simbolnya} ${prefix}wame 
 ${simbolnya} ${prefix}towame`
 }
-
-© Netrythical Copyright 2021
