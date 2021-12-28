@@ -1,9 +1,9 @@
 {
     "self_mode": false,
-    "anti_delete": false,
+    "anti_delete": true,
     "anti_call": true,
-    "autorespon": true,
-    "user_register": true,
+    "autorespon": false,
+    "user_register": false,
     "auto_welcome": true,
     "auto_leave": true,
 	"prefix": ".",
