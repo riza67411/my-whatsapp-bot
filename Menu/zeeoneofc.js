@@ -1,8 +1,5 @@
-exports.allmenu = (ucapannya,namabot, pushname, sender, isOwner, isPrem, cekvipp, getLimit, limitawal, limit, balance, getBalance, simbolnya, petik, prefix) => {
-return`🤖 Nakano Ichika
-${simbolnya} ${ucapannya}
-
-*👤 User Information*
+exports.allmenu = (namabot, pushname, sender, isOwner, isPrem, cekvipp, getLimit, limitawal, limit, balance, getBalance, simbolnya, petik, prefix) => {
+return`*👤 User Information*
 ${simbolnya} Nama: ${pushname} 
 ${simbolnya} Tag: @${sender.split("@")[0]} 
 ${simbolnya} Status: ${isOwner?`Owner`:isPrem?`Premium`:`Free User`} 
@@ -125,7 +122,7 @@ ${simbolnya} ${prefix}add <number>
 ${simbolnya} ${prefix}kick <tag>
 ${simbolnya} ${prefix}promote <tag>
 ${simbolnya} ${prefix}demote <tag>
-{simbolnya} ${prefix}resetlink
+${simbolnya} ${prefix}resetlink
 ${simbolnya} ${prefix}linkgc
 ${simbolnya} ${prefix}setdesc <text>
 ${simbolnya} ${prefix}setnamagrup <text>
