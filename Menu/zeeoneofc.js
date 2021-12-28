@@ -149,7 +149,7 @@ ${simbolnya} ${prefix}pat
 ${simbolnya} ${prefix}smug
 ${simbolnya} ${prefix}bonk
 ${simbolnya} ${prefix}yeet
-${4simbolnya} ${prefix}blush
+${simbolnya} ${prefix}blush
 ${simbolnya} ${prefix}smile
 ${simbolnya} ${prefix}wave
 ${simbolnya} ${prefix}highfive
