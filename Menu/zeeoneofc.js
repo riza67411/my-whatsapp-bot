@@ -11,7 +11,7 @@ ${simbolnya} Limit: ${isOwner?`Unlimited`: isPrem ? `Unlimited Premium` : getLim
 ${simbolnya} Balance: ${getBalance(sender, balance)}
 
 
-*Owner*
+*⚙️ Owner*
 ${simbolnya} ${prefix}bc <text>
 ${simbolnya} ${prefix}bcimage <reply image>
 ${simbolnya} ${prefix}ban <tag>
