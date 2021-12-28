@@ -46,7 +46,7 @@ ${simbolnya} ${prefix}tiktoknowm <url>
 ${simbolnya} ${prefix}mediafire <url>
 
 *♻️ Convert*
-${simbolnya} ${prefix}sticker [reply media>
+${simbolnya} ${prefix}sticker <reply media>
 ${simbolnya} ${prefix}swm <text>|<text>
 ${simbolnya} ${prefix}take <text>|<text>
 ${simbolnya} ${prefix}attp <text>
